@@ -2,4 +2,4 @@
 
 require_once 'vendor/autoload.php';
 
-// El inicio ;)
+echo "Todo salio bien :D";

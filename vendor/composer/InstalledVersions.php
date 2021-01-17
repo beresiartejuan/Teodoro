@@ -70,6 +70,15 @@ private static $installed = array (
       ),
       'reference' => '6d3ee31199b536a4e003b34a356ca20f6f75496a',
     ),
+    'phpmailer/phpmailer' => 
+    array (
+      'pretty_version' => 'v6.2.0',
+      'version' => '6.2.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => 'e38888a75c070304ca5514197d4847a59a5c853f',
+    ),
   ),
 );
 
