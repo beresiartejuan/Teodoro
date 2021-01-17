@@ -1,0 +1,10 @@
+{
+    "name": "famil/teodoro",
+    "description": "Codigo de una pagina educativa",
+    "license": "Mit License",
+    "require": {
+        "bramus/router": "~1.5",
+        "league/plates": "^3.4",
+        "faapz/pdo": "^2.1"
+    }
+}
